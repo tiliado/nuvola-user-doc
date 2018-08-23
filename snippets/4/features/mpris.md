@@ -1,0 +1,1 @@
+Nuvola implements Media Player Remote Interface Specification (MPRIS 2). Doesn't ring a bell? It's a must-have technology that various applets and media indicators use to control media playback over DBus.
