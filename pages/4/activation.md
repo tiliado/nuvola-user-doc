@@ -24,7 +24,10 @@ page from Gumroad Help center.
          flatpak update --user
          flatpak update --system
 
-  2. Open Preferences dialog.
+  2. Install and launch any Nuvola app from the list [Available Nuvola Apps](https://nuvola.tiliado.eu/index/),
+     then open Preferences dialog of that app. The screenshot shows *"Nuvola Player • Nuvola Apps Runtime"* as a generic
+     placeholder, real apps don't show *"Nuvola Player"* but *"Deezer"*, *"Spotify"*, *"Google Play Music"*, etc.
+     instead.
   
   3. Look for the Features Tier label in the middle of the dialog and click "Unlock features" or "Info" buttons.
   
@@ -41,7 +44,7 @@ page from Gumroad Help center.
   9. If there are any issues, contact [Tiliado support](mailto:support@tiliado.eu).
   
  Gallery 3cols
-+[Open Preferences dialog.](:images/4/features/open_preferences.png|330)
++[Open Preferences dialog of any Nuvola app, e.g. Deezer, Spotify, Google Calendar, ...](:images/4/features/open_preferences.png|330)
 +[Click Unlock features ...](:images/4/activation/tier_unlock_features.png|330)
 +[... or click Info.](:images/4/activation/features_tier_info.png|330)
 +[If there are any previous purchases, remove them.](:images/4/activation/remove_previous_purchases.png|330)
@@ -66,7 +69,10 @@ linked to your Tiliado account.
 
   2. Make sure you have Tiliado account with a linked Nuvola purchase.
   
-  3. Open Preferences dialog.
+  3. Install and launch any Nuvola app from the list [Available Nuvola Apps](https://nuvola.tiliado.eu/index/),
+     then open Preferences dialog of that app. The screenshot shows *"Nuvola Player • Nuvola Apps Runtime"* as a generic
+     placeholder, real apps don't show *"Nuvola Player"* but *"Deezer"*, *"Spotify"*, *"Google Play Music"*, etc.
+     instead.
   
   4. Look for the Features Tier label in the middle of the dialog and click "Unlock features" or "Info" buttons.
   
@@ -86,7 +92,7 @@ linked to your Tiliado account.
 
 
  Gallery 3cols
-+[Open Preferences dialog.](:images/4/features/open_preferences.png|330)
++[Open Preferences dialog of any Nuvola app, e.g. Deezer, Spotify, Google Calendar, ...](:images/4/features/open_preferences.png|330)
 +[Click Unlock features ...](:images/4/activation/tier_unlock_features.png|330)
 +[... or click Info.](:images/4/activation/features_tier_info.png|330)
 +[If there are any previous purchases, remove them.](:images/4/activation/remove_previous_purchases.png|330)
