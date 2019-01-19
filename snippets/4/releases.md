@@ -17,3 +17,4 @@ simplified to 4.x.
   * The [release 4.12](:4/releases/4.12.html) was released on July 21st, 2018.
   * The [release 4.13](:4/releases/4.13.html) was released on October 14th, 2018.
   * The [release 4.14](:4/releases/4.14.html) was released on November 11th, 2018.
+  * The [release 4.15](:4/releases/4.15.html) was released on December 28th, 2018.
