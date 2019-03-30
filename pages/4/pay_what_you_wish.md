@@ -5,17 +5,17 @@ We appreciate your support. It helps us to cover the project's expenses and moti
 develop Nuvola further even though some obstacles may seem too demanding. By purchasing Nuvola, you told us:
 *"Don't give up, we appreciate your work."*
 
-**You should have received a licence key from Gumroad by now.**
+**You should receive two emails within a few minutes after your purchase but they might sometimes be delayed.**
 
-  * The key was sent to your email address registered at Gumroad. If you cannot see any email from Gumroad, please look
-    into the spam folder as well.
-  * You can also get the key from your [your Gumroad Library](https://gumroad.com/library).
-  * You can consult the [Where is my purchase?](https://help.gumroad.com/11167-buyer-faq/where-is-my-purchase)
-    page from Gumroad Help center.
-  * If you still cannot find it, please [contact Tiliado support](mailto:support@tiliado.eu).
+1. An email from Nuvola team "How to activate Nuvola application".
+2. An email from Gumroad containing a receipt and **a license key**.
 
+If you cannot see any email with the license key, please check your spam folder as well. Alternatively, the key should
+be available also in your [your Gumroad Library](https://gumroad.com/library) as specified in the
+[Where is my purchase?](https://help.gumroad.com/article/9-where-is-my-purchase) page from Gumroad Help center.
+If you still cannot find the license key, [contact Tiliado support](mailto:support@tiliado.eu).
 
-**You can now use the license key to activate Nuvola.**
+**Once you obtain the license key, you can activate Nuvola.**
 
   1. Update Nuvola flatpaks to the latest version. You can use GNOME/Ubuntu Software Center (3.22 or later) with
      the Flatpak plugin or you can use these two commands:
@@ -34,7 +34,7 @@ develop Nuvola further even though some obstacles may seem too demanding. By pur
   
   5. Click I purchased Nuvola Runtime.
   
-  6. Select *I have purchased Nuvola Runtime and received a license key* and click *Continue*.
+  6. Select *I will continue with a license key* and click *Continue*.
   
   7. Enter the license key and click *Continue*.
   

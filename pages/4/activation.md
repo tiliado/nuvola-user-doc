@@ -3,20 +3,27 @@ Path: /4/activation/
 
 There are two ways to activate Nuvola.
 
-  * **License key from Gumroad**: Use this method if you purchased Nuvola on **Gumroad after September 2nd, 2018**.
+  * **License key from Gumroad**: Use this method if you purchased Nuvola on **after September 2nd, 2018**.
     You should have immediately received a license key in that case.
-  * **Tiliado account**: Use this method if you purchased Nuvola via **PayPal**, **Patreon**, or **Gumroad**
-   (before September 3rd, 2018). In that case, you haven't received any license key but your purchase was
-   linked to your Tiliado account.
+  * **Tiliado account**: Use this method if you purchased Nuvola **before September 3rd, 2018**.
+    In that case, you haven't received any license key but your purchase was linked to your Tiliado account.
 
 Activation with License Key
 ===========================
 
-Use this method if you purchased Nuvola on **Gumroad after September 2nd, 2018**.
-You should have immediately received a license key in that case. The license key should also be available in
-[your Gumroad Library](https://gumroad.com/library). See the
-[Where is my purchase?](https://help.gumroad.com/11167-buyer-faq/where-is-my-purchase)
-page from Gumroad Help center.
+Use this method if you purchased Nuvola on **after September 2nd, 2018**.
+
+**You should receive two emails within a few minutes after your purchase but they might sometimes be delayed.**
+
+1. An email from Nuvola team "How to activate Nuvola application".
+2. An email from Gumroad containing a receipt and **a license key**.
+
+If you cannot see any email with the license key, please check your spam folder as well. Alternatively, the key should
+be available also in your [your Gumroad Library](https://gumroad.com/library) as specified in the
+[Where is my purchase?](https://help.gumroad.com/article/9-where-is-my-purchase) page from Gumroad Help center.
+If you still cannot find the license key, [contact Tiliado support](mailto:support@tiliado.eu).
+
+**Once you obtain the license key, you can activate Nuvola.**
 
   1. Update Nuvola flatpaks to the latest version. You can use GNOME/Ubuntu Software Center (3.22 or later) with
      the Flatpak plugin or you can use these two commands:
@@ -35,7 +42,7 @@ page from Gumroad Help center.
   
   5. Click I purchased Nuvola Runtime.
   
-  6. Select *I have purchased Nuvola Runtime and received a license key* and click *Continue*.
+  6. Select *I will continue with a license key* and click *Continue*.
   
   7. Enter the license key and click *Continue*.
   
@@ -59,7 +66,7 @@ Activation with Tiliado Account
 
 Use this method if you purchased Nuvola via **PayPal**, **Patreon**, or **Gumroad**
 (before September 3rd, 2018). In that case, you haven't received any license key but your purchase was
-linked to your Tiliado account.
+linked to your Tiliado account. This is a legacy option for really old purchases.
 
   1. Update Nuvola flatpaks to the latest version. You can use GNOME/Ubuntu Software Center (3.22 or later) with
      the Flatpak plugin or you can use these two commands:
