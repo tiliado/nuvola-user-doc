@@ -9,4 +9,4 @@ toggle *Audio Scrobbling* on and then click the gear button to adjust *Audio Scr
 +[Open Preferences dialog.](:images/4/features/open_preferences.png|330)
 +[Enable Audio Scrobbling Services.](:images/4/features/enable_scrobbling.png|330)
 +[Choose Audio Scrobbling Services.](:images/4/features/choose_scrobbling.png|330)
-+[Tweak Last.fm Scrobbling to your liking.](:images/4/features/scrobbling.png|330)
++[Tweak scrobbling to your liking.](:images/4/features/scrobbling.png|330)
