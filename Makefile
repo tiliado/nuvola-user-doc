@@ -5,4 +5,4 @@ serve:
 generate:
 	fxwebgen.py -c config.yaml
 publish:
-	cd ~/dev/projects/fxdepl && ./fxdepl.py push -s server3.tiliado.eu -p nuvola.tiliado.eu-docs -R
+	cd ~/dev/k3s && ansible-playbook -i hosts.txt -vD playbooks/tiliado.eu-nginx.yml -l tiliado4 --tags nuvola-docs
