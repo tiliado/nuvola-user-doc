@@ -34,13 +34,11 @@ If you still cannot find the license key, [contact Tiliado support](mailto:suppo
   
   5. Click I purchased Nuvola Runtime.
   
-  6. Select *I will continue with a license key* and click *Continue*.
+  6. Enter the license key and click *Continue*.
   
-  7. Enter the license key and click *Continue*.
+  7. If the key is valid, the details of your license are shown.
   
-  8. If the key is valid, the details of your license are shown.
-  
-  9. If there are any issues, contact [Tiliado support](mailto:support@tiliado.eu).
+  8. If there are any issues, contact [Tiliado support](mailto:support@tiliado.eu).
   
  Gallery 3cols
 +[Open Preferences dialog of any Nuvola app, e.g. Deezer, Spotify, Google Calendar, ...](:images/4/features/open_preferences.png|330)
@@ -48,7 +46,6 @@ If you still cannot find the license key, [contact Tiliado support](mailto:suppo
 +[... or click Info.](:images/4/activation/features_tier_info.png|330)
 +[If there are any previous purchases, remove them.](:images/4/activation/remove_previous_purchases.png|330)
 +[Click I purchased Nuvola.](:images/4/activation/i_purchased_nuvola.png|330)
-+[Select the first option and click Continue.](:images/4/activation/i_got_key.png|330)
 +[Enter license key.](:images/4/activation/enter_key.png|330)
 +[Wait until the key is verified.](:images/4/activation/key_is_verified.png|330)
 +[Gumroad license details.](:images/4/activation/gumroad_license.png|330)

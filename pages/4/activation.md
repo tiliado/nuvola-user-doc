@@ -1,27 +1,29 @@
 Title: Nuvola 4 Activation
 Path: /4/activation/
 
-There are two ways to activate Nuvola.
+Nuvola Player is activated by entering a license key. There are three kinds of license keys:
 
-  * **License key from Gumroad**: Use this method if you purchased Nuvola on **after September 2nd, 2018**.
-    You should have immediately received a license key in that case.
-  * **Tiliado account**: Use this method if you purchased Nuvola **before September 3rd, 2018**.
-    In that case, you haven't received any license key but your purchase was linked to your Tiliado account.
+  * **License keys from Gumroad**:
+    If you purchased Nuvola on Gumroad, you should receive two emails within a few minutes after your purchase
+    but they might sometimes be delayed.
 
-Activation with License Key
-===========================
+    1. An email from Nuvola team "How to activate Nuvola application".
+    2. An email from Gumroad containing a receipt and **a license key**.
 
-Use this method if you purchased Nuvola on **after September 2nd, 2018**.
+    If you cannot see any email with the license key, please check your spam folder as well.
+    Alternatively, the key should be available also in your [your Gumroad Library](https://gumroad.com/library)
+    as specified in the [Where is my purchase?](https://help.gumroad.com/article/9-where-is-my-purchase)
+    page from Gumroad Help center.
+    If you still cannot find the license key, [contact Tiliado support](mailto:support@tiliado.eu).
 
-**You should receive two emails within a few minutes after your purchase but they might sometimes be delayed.**
+  * **License keys for migrated Tiliado accounts**: If you purchased Nuvola **before September 3rd, 2018**, 
+    you haven't received any license key from Gumroad but your purchase was linked to your Tiliado account.
+    However, Tiliado account have also been migrated to custom license keys.
+    If you haven't received any key, [contact Tiliado support](mailto:support@tiliado.eu).
 
-1. An email from Nuvola team "How to activate Nuvola application".
-2. An email from Gumroad containing a receipt and **a license key**.
+  * **Developer license keys**: These keys are granted free of charge for help with Nuvola development.
+    If you feel you contributed to the project significantly, you can [contact Tiliado support](mailto:support@tiliado.eu).
 
-If you cannot see any email with the license key, please check your spam folder as well. Alternatively, the key should
-be available also in your [your Gumroad Library](https://gumroad.com/library) as specified in the
-[Where is my purchase?](https://help.gumroad.com/article/9-where-is-my-purchase) page from Gumroad Help center.
-If you still cannot find the license key, [contact Tiliado support](mailto:support@tiliado.eu).
 
 **Once you obtain the license key, you can activate Nuvola.**
 
@@ -42,13 +44,11 @@ If you still cannot find the license key, [contact Tiliado support](mailto:suppo
   
   5. Click I purchased Nuvola Runtime.
   
-  6. Select *I will continue with a license key* and click *Continue*.
+  6. Enter the license key and click *Continue*.
   
-  7. Enter the license key and click *Continue*.
+  7. If the key is valid, the details of your license are shown.
   
-  8. If the key is valid, the details of your license are shown.
-  
-  9. If there are any issues, contact [Tiliado support](mailto:support@tiliado.eu).
+  8. If there are any issues, contact [Tiliado support](mailto:support@tiliado.eu).
   
  Gallery 3cols
 +[Open Preferences dialog of any Nuvola app, e.g. Deezer, Spotify, Google Calendar, ...](:images/4/features/open_preferences.png|330)
@@ -56,54 +56,6 @@ If you still cannot find the license key, [contact Tiliado support](mailto:suppo
 +[... or click Info.](:images/4/activation/features_tier_info.png|330)
 +[If there are any previous purchases, remove them.](:images/4/activation/remove_previous_purchases.png|330)
 +[Click I purchased Nuvola.](:images/4/activation/i_purchased_nuvola.png|330)
-+[Select the first option and click Continue.](:images/4/activation/i_got_key.png|330)
 +[Enter license key.](:images/4/activation/enter_key.png|330)
 +[Wait until the key is verified.](:images/4/activation/key_is_verified.png|330)
 +[Gumroad license details.](:images/4/activation/gumroad_license.png|330)
-
-Activation with Tiliado Account
-===============================
-
-Use this method if you purchased Nuvola via **PayPal**, **Patreon**, or **Gumroad**
-(before September 3rd, 2018). In that case, you haven't received any license key but your purchase was
-linked to your Tiliado account. This is a legacy option for really old purchases.
-
-  1. Update Nuvola flatpaks to the latest version. You can use GNOME/Ubuntu Software Center (3.22 or later) with
-     the Flatpak plugin or you can use these two commands:
-
-         flatpak update --user
-         flatpak update --system
-
-  2. Make sure you have Tiliado account with a linked Nuvola purchase.
-  
-  3. Install and launch any Nuvola app from the list [Available Nuvola Apps](https://nuvola.tiliado.eu/index/),
-     then open Preferences dialog of that app. The screenshot shows *"Nuvola Player • Nuvola Apps Runtime"* as a generic
-     placeholder, real apps don't show *"Nuvola Player"* but *"Deezer"*, *"Spotify"*, *"Google Play Music"*, etc.
-     instead.
-  
-  4. Look for the Features Tier label in the middle of the dialog and click "Unlock features" or "Info" buttons.
-  
-  5. If there are any previous purchases, remove them with the *rubbish bin* button.
-  
-  6. Click I purchased Nuvola Runtime.
-  
-  7. Select *I haven't received any license key but my purchase was linked to my Tiliado account'* and click *Continue*.
-  
-  8. Tiliado website will open in your web browser.
-  
-  9. Authorize Nuvola to access your Tiliado account.
-  
- 10. The details of your Tiliado account are shown.
- 
- 11. If there are any issues, contact [Tiliado support](mailto:support@tiliado.eu).
-
-
- Gallery 3cols
-+[Open Preferences dialog of any Nuvola app, e.g. Deezer, Spotify, Google Calendar, ...](:images/4/features/open_preferences.png|330)
-+[Click Unlock features ...](:images/4/activation/tier_unlock_features.png|330)
-+[... or click Info.](:images/4/activation/features_tier_info.png|330)
-+[If there are any previous purchases, remove them.](:images/4/activation/remove_previous_purchases.png|330)
-+[Click I purchased Nuvola.](:images/4/activation/i_purchased_nuvola.png|330)
-+[Select the second option and click Continue.](:images/4/activation/i_have_tiliado_account.png|330)
-+[Follow instructions in your web browser.](:images/4/activation/tiliado_activation_in_progress.png|330)
-+[Tiliado account details.](:images/4/activation/tiliado_account.png|330)
