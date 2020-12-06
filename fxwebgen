@@ -1,0 +1,3 @@
+#!/bin/sh
+export PYTHONPATH=/home/fenryxo/dev/repo/fxwebgen
+exec $PYTHONPATH/fxwebgen.py "$@"
