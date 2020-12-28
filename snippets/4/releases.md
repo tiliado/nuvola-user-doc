@@ -22,3 +22,4 @@ simplified to 4.x.
   * The [release 4.17](:4/releases/4.17.html) was released on September 28th, 2020.
   * The [release 4.18](:4/releases/4.18.html) was released on October 30th, 2020.
   * The [release 4.19](:4/releases/4.19.html) was released on November 29th, 2020.
+  * The [release 4.20](:4/releases/4.20.html) was released on December 28th, 2020.
