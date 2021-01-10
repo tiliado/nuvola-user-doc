@@ -78,7 +78,7 @@ The built-in MPRIS applet in Unity resides in the **sound indicator**.
     [running in the background](:4/background_playback.html).
   * You can show Nuvola window if you click the track details.
 
- Gallery 3cols
+ Gallery 2cols
 +[You can control music playback, especially useful when Nuvola is running in the background.](:images/4/desktops/unity/sound_menu_playback_buttons.png|330)
 +[You can show Nuvola window if you click the track details.](:images/4/desktops/unity/sound_menu_activate.png|330)
 
@@ -94,8 +94,23 @@ The built-in MPRIS applet in elementaryOS resides in the **sound indicator**.
     [running in the background](:4/background_playback.html).
   * You can show Nuvola window if you click the track details.
 
- Gallery 3cols
+ Gallery 2cols
 +[You can control music playback, especially useful when Nuvola is running in the background.](:images/4/desktops/pantheon/sound_menu_playback_buttons.png|330)
 +[You can show Nuvola window if you click the track details.](:images/4/desktops/pantheon/sound_menu_activate.png|330)
 
 
+MPRIS Applet in Cinnamon {: #cinnamon}
+========================
+
+{$ 4/desktops/learn_cinnamon.md $}
+
+The built-in MPRIS applet in Cinnamon resides in the **sound indicator**.
+
+  * It shows information about the current track including album art.
+  * You can control music playback, especially useful when Nuvola is
+    [running in the background](:4/background_playback.html).
+  * You can show Nuvola window if you click the up arrow next to the player's name.
+
+ Gallery 2cols
++[You can control music playback, especially useful when Nuvola is running in the background.](:images/4/desktops/cinnamon/mpris_media_control.png|330)
++[You can show Nuvola window if you click the up arrow next to the player's name.](:images/4/desktops/cinnamon/mpris_open_player.png|330)

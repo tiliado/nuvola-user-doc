@@ -57,3 +57,13 @@ the notifications applet. Unlike some other desktops, elementaryOS does not supp
 +[Notifications are typically displayed in top right corner](:images/4/desktops/pantheon/notification.png|330)
 
 
+Notifications in Cinnamon {: #cinnamon}
+=========================
+
+{$ 4/desktops/learn_cinnamon.md $}
+
+Notifications in Cinnamon are typically displayed in the top right corner and can be later accessed via
+the notifications applet. Cinnamon supports notifications with actions.
+
+ Gallery 2cols
++[Notifications are typically displayed in top right corner](:images/4/desktops/cinnamon/notification.png|330)

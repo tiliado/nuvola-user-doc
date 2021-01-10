@@ -78,6 +78,34 @@ You can then pin all your favorite music streaming services. One click to launch
 +[Right-click on its icon in the dock, then click Add to favorites.](:images/4/desktops/gnome/dock_add_to_favorites.png|330)
 +[You can add as many apps as you want.](:images/4/desktops/gnome/apps_pinned_to_dock_with_tooltip.png|330)
 
+Desktop Launchers in Cinnamon {: #cinnamon}
+=============================
+
+{$ 4/desktops/learn_cinnamon.md $}
+
+Cinnamon offers you a wide range of options where to pin desktop launchers: Desktop icons, panel icons or favorites in the menu.
+
+Menu {: #mint-menu}
+----
+
+You can use menu to search for individual Nuvola apps by typing their names. Then you can launch it or add an icon to
+desktop, panel or favorites.
+
+ Gallery 2cols
++[Start typing the name of a particular app, then click the application launcher or press Enter key.](:images/4/desktops/cinnamon/mint_menu.png|330)
++[Add your favorite Nuvola apps to favorites, on panel or on desktop.](:images/4/desktops/cinnamon/menu_add_to_favorites.png|330)
+
+
+Panel {: #cinnamon-panel}
+-----
+
+Cinnamon panel is the fastest way to launch Nuvola Player. You can pin your favorite apps from the menu,
+as described above, or you can pin running apps from the panel.
+
+ Gallery 2cols
++[You can pin running apps to the panel.](:images/4/desktops/cinnamon/pin_to_panel.png|330)
++[You can add as many apps as you want.](:images/4/desktops/cinnamon/apps_pinned_to_panel.png|330)
+
 Desktop Launchers in Unity {: #unity}
 ==========================
 

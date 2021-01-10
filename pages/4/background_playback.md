@@ -77,3 +77,22 @@ features:
 
 Tip: If you enable [Desktop Notifications](:4/notifications.html#elementary),
 you will be notified on a track change.
+
+
+Background Playback in Cinnamon {: #cinnamon}
+===============================
+
+{$ 4/desktops/learn_cinnamon.md $}
+
+When you close Nuvola window, it keeps playing in the background. You can then control it with following integration
+features:
+
+  - [Sound indicator](:4/mpris.html#cinnamon)
+  - [Nuvola app indicator](:4/tray_icon.html#cinnamon)
+  - [Global keyboard shortcuts](:4/keyboard_shortcuts.md)
+  - [Multimedia keys](:4/media_keys.md)
+  - [Remote control over Network](:4/http_control.html)
+  - [Command line](:4/command_line.html)
+
+Tip: If you enable [Desktop Notifications](:4/notifications.html#cinnamon),
+you will be notified on a track change.

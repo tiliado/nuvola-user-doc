@@ -54,3 +54,13 @@ ElementaryOS adopted app indicators from Unity.
 
  Gallery 2cols
 +[You can control playback.](:images/4/desktops/pantheon/appindicators.png|330)
+
+App Indicators in Cinnamon {: #cinnamon}
+==========================
+
+{$ 4/desktops/learn_cinnamon.md $}
+
+Cinnamon fully supports app indicators as well.
+
+ Gallery 2cols
++[You can control playback.](:images/4/desktops/cinnamon/tray_icon.png|330)
