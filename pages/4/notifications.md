@@ -67,3 +67,14 @@ the notifications applet. Cinnamon supports notifications with actions.
 
  Gallery 2cols
 +[Notifications are typically displayed in top right corner](:images/4/desktops/cinnamon/notification.png|330)
+
+Notifications in Mate {: #mate}
+=========================
+
+{$ 4/desktops/learn_mate.md $}
+
+Notifications in Mate are typically displayed in the top right corner and can be later accessed via
+the notifications applet. Mate supports notifications with actions.
+
+ Gallery 2cols
++[Notifications are typically displayed in top right corner](:images/4/desktops/mate/notification.png|330)

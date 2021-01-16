@@ -64,3 +64,13 @@ Cinnamon fully supports app indicators as well.
 
  Gallery 2cols
 +[You can control playback.](:images/4/desktops/cinnamon/tray_icon.png|330)
+
+App Indicators in Mate {: #mate}
+==========================
+
+{$ 4/desktops/learn_mate.md $}
+
+Mate fully supports app indicators as well.
+
+ Gallery 2cols
++[You can control playback.](:images/4/desktops/mate/tray_icon.png|330)

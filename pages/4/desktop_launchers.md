@@ -191,3 +191,30 @@ we recommend pinning all your favorite music streaming services to the dock. One
     the dock entry menu. If the dock entry is pinned and
     [background playback is enabled](:4/background_playback.html#elementary), you can use the extra menu
     actions to control playback.
+
+Desktop Launchers in Mate {: #mate}
+=============================
+
+{$ 4/desktops/learn_mate.md $}
+
+Mate offers you a wide range of options where to pin desktop launchers: Desktop icons, panel icons or favorites in the menu.
+
+Menu {: #mate-menu}
+----
+
+You can use menu to search for individual Nuvola apps by typing their names. Then you can launch it or add an icon to
+desktop, panel or favorites.
+
+ Gallery 2cols
++[Start typing the name of a particular app, then click the application launcher or press Enter key.](:images/4/desktops/mate/mate_menu.png|330)
++[Add your favorite Nuvola apps to favorites, on panel or on desktop.](:images/4/desktops/mate/mate_menu_add_to.png|330)
+
+
+Panel {: #mate-panel}
+-----
+
+Mate panel is the fastest way to launch Nuvola Player. You can pin your favorite apps from the menu,
+as described above.
+
+ Gallery 2cols
++[You can add as many apps as you want.](:images/4/desktops/mate/apps_pinned_to_panel.png|330)

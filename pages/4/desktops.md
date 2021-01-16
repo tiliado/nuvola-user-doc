@@ -10,6 +10,7 @@ Selected Desktop Environments
 Although Nuvola should work in all Linux desktop environments, we currently test only
 [GNOME](:4/desktops/gnome.html) (Ubuntu, Fedora),
 [Cinnamon](:4/desktops/cinnamon.html) (Linux Mint),
+[Mate](:4/desktops/mate.html) (Linux Mint),
 [Unity](:4/desktops/unity.html) (Ubuntu),
 and [Pantheon](:4/desktops/pantheon.html) (elementaryOS).
 We hope to explore other desktops in the future.
@@ -39,6 +40,12 @@ We hope to explore other desktops in the future.
 
     Unity is the default desktop environment of Ubuntu 17.04 and older,
     but it was later replaced with GNOME.
+{:d-flex}
+{d-flex: col-6 }
+!!! secondary "[![Mate desktop environment](:images/4/desktops/mate/tray_icon.png|330)](:4/desktops/mate.html)"
+    ### [Mate](:4/desktops/mate.html)
+
+    Mate is the default desktop environment of Ubuntu Mate and Linux Mint Mate edition, but is also available in other distributions.
 {:d-flex}
 {:row}
 {:container}
