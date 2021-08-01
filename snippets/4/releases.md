@@ -25,3 +25,4 @@ simplified to 4.x.
   * The [release 4.20](:4/releases/4.20.html) was released on December 28th, 2020.
   * The [release 4.21](:4/releases/4.21.html) was released on April 11th, 2021.
   * The [release 4.22](:4/releases/4.22.html) was released on May 9th, 2021.
+  * The [release 4.23](:4/releases/4.23.html) was released on August 1st, 2021.
